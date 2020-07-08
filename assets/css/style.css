@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+div{
+    background: #ffffff;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    padding: 30px;
+}
+input{
+    width: 100%;
+    font-size: 2rem;
+}
+h1{
+    padding: 10px 0;
+    font-size: 3rem;
+}
+#senden{
+    background: yellowgreen;
+}
